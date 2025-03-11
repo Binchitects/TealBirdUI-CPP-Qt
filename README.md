@@ -1,2 +1,2 @@
 # TealBirdUI-CPP-Qt
-Teal Bird UI Design System implementation in Qt C++
+Teal Bird Design System implementation in Qt C++
